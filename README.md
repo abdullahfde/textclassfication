@@ -10,7 +10,7 @@
 - Load isim.txt then put in isim_dict
 - Load yer.txt then put in yer_dict then join the two dicts
 - Load the word embeddings vectors pickle file
-- Extract the word embedding vector vector for each word
+- Extract the word embedding vector for each word
 - Prepare the X_train and y_train 
 
 # Classfication 
