@@ -1,4 +1,4 @@
-# Names and Places Recognition based pre trained Fasttext and ensemble learning.
+# Turkish Names and Places Recognition based pre trained Fasttext and ensemble learning.
 
 # Method
 - Collecting data from different websites which contains Turkish names and places by using beautiful soup python library.
