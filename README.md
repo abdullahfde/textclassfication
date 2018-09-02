@@ -2,7 +2,7 @@
 
 # Method
 - Collecting data from different websites which contains Turkish names and places by using beautiful soup python library.
- Then processing the data and clean it then stor it in text file. >>>isim.txt >>>yer.txt
+ Then processing the data and clean it then store it in text file. >>>isim.txt >>>yer.txt
 - Installing pre trained fasttext model file for embeddings turkish words. 
 - Tagging each name and place in my data to it's corresponding vector then saving it to Pickle file which called >> word_emeddings 
 
