@@ -1,0 +1,4 @@
+Unidecode==1.0.22
+numpy==1.14.2
+Flask==0.12.2
+scikit_learn==0.19.2
